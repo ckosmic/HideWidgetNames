@@ -1,0 +1,9 @@
+Package: com.ckosmic.hidewidgetnames
+Name: HideWidgetNames
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Christian Kosman
+Author: Christian Kosman
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
